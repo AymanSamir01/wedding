@@ -14,13 +14,13 @@ const EVENTS = [
   },
   {
     title: "Katb Ketab",
-    date: new Date("2026-07-24T17:00:00"),
+    date: new Date("2026-07-24T00:00:00"),
     icon: <Gem className="w-10 h-10" strokeWidth={1.5} />,
     accent: "blush" as const,
   },
   {
     title: "Wedding",
-    date: new Date("2026-08-15T18:00:00"),
+    date: new Date("2026-08-15T00:00:00"),
     icon: <Heart className="w-10 h-10 fill-current" strokeWidth={1.5} />,
     accent: "blush" as const,
   },
